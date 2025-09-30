@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "tonnyetukon-cpu",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "250df8bd-6668-4d51-b03c-a5e8e2c7a9c0",
+      "database_name": "tonnyetukon-cpu"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
